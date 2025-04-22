@@ -1,0 +1,24 @@
+{
+    "name": "ShopEasy",
+    "short_name": "ShopEasy",
+    "start_url": "/",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "icon/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "icon/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#4285f4",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
+}
